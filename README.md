@@ -1,7 +1,7 @@
 # House_Price-Analysis
 ELK case
 
-1.Scrape 信義房屋、台灣房屋、住商不動產 台北最新房價；                                                   
+1.Scrape 信義房屋、台灣房屋、住商不動產、永慶房屋，台北最新房價；                                                   
 col=['title','address','house','type','age','area','price','perprice','room','hall','bathroom','floor','total','floor']
 
 2.scrape 台北市實價登錄 from 2012 to 2022 ; 
