@@ -6,6 +6,6 @@ col=['title','address','house','type','age','area','price','perprice','room','ha
 
 2.scrape 台北市實價登錄 from 2012 to 2022 ; 
 
-3.Import data into DataBase: Amazon Aurora Mysql
+3.Import data into DataBase: Amazon Aurora MySQL
 
 4.Data visualize by Tableau Public URL:https://public.tableau.com/app/profile/howard4718/viz/house_priceTaipei/Housepriceindex
